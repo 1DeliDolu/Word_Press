@@ -5,7 +5,7 @@ Dieses Repository enthält Dokumentation und Hilfsmaterialien rund um WordPress.
 **Projektübersicht**
 
 - **Zweck:** Sammlung von Anleitungen, How‑tos und Wartungs- bzw. Sicherheitsleitfäden für WordPress.
-- **Sprache:** Primär Markdown (mehrsprachige Inhalte möglich).
+- **Sprache:** Die Dokumentation ist hauptsächlich auf Türkisch verfasst (Markdown). Beiträge in anderen Sprachen sind willkommen.
 
 **Projektstruktur (ausgewählte Ordner)**
 
@@ -35,7 +35,7 @@ Dieses Repository enthält Dokumentation und Hilfsmaterialien rund um WordPress.
 - Git-Befehle (Bash unter Windows):
 
   ```bash
-  git clone <repo-url>
+  git clone https://github.com/1DeliDolu/Word_Press.git
   git checkout -b feature/your-branch
   # bearbeiten, committen, pushen
   ```
